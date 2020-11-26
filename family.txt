@@ -214,7 +214,7 @@ Nikko + Angel
 Joyce + ---
  c: Jadie
 
-Rex + ----
+Rey + ----
  c: Joaqui
 
 Ralph + -----

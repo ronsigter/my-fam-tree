@@ -1,0 +1,221 @@
+Lolo Magdaleno
+ n: Birthday July 22
+
+Lola Demetria
+ n: Birthday May 5
+
+Mommy Puring
+ n: Birthday Feb 2
+
+Nonon
+ n: Birthday Feb 24
+
+Nanay Siring
+ n: Birthday Feb 24
+
+Tatay Junior
+ n: Birthday July 24
+
+Nanay Ising
+ n: Birthday Jan 16
+
+Tatay Rey
+ n: Birthday Aug 17
+
+Susan
+ n: Birthday Dec 26
+
+Boy
+ n: Birthday Jan 22
+
+Josie
+ n: Birthday March 20
+
+Bobby
+ n: Birthday Nov 1
+
+Eric
+ n: Birthday June 2
+
+Evelyn
+ n: Birthday Oct 14
+
+Ophie
+ n: Birthday Aug 25
+
+Liza
+ n: Birthday Nov 16
+
+Arturo
+ n: Birthday April 1
+
+Angelie
+ n: Birthday Sept 1
+
+Lilian
+ n: n/a
+
+Perry
+ n: Birthday Dec 4
+
+Rex L.
+ n: n/a
+
+Anthony
+ n: Birthday March 11
+
+Joyce
+ n: Birthday Oct 3
+
+Rey
+ n: Birthday April 13
+
+Rex
+ n: Birthday April 13
+
+Joey
+ n: Birthday July 11
+
+Jay
+ n: Birthday Sept 6
+
+Camille
+ n: Birthday July 17
+
+Ralph
+ n: Birthday Oct 23
+
+Chester
+ n: Birthday Oct 25
+
+Liander
+ n: Birthday Oct 14
+
+Dominick
+ n: Birthday Aug 8
+
+Kim
+ n: Birthday May 12
+
+Rica
+ n: Birthday March 24
+
+Tricia
+ n: Birthday Jan 2
+
+Aico
+ n: Birthday Nov 2
+
+Nikko
+ n: Birthday
+
+Christel
+ n: Birthday Oct 2
+
+Carlo
+ n: Birthday June 15
+
+Gelo
+ n: Birthday Nov 17
+
+Isabel
+ n: Birthday April 13
+
+Sofia
+ n: Birthday Oct 24
+
+Monica
+ n: Birthday April 6
+
+
+Marvin
+ n: Birthday Sept 24
+
+PJ
+ n: Birthday July 20
+
+Jubs
+ n: Birthday June 12
+
+Ju
+ n: Birthday
+
+Angel
+ n: Birthday
+
+Jadie
+ n: Birthday Dec 12
+
+Joaqui
+ n: Birthday Dec 14
+
+Mia
+ n: Birthday July 2
+
+Luca
+ n: Birthday March 31
+
+ZL
+ n: Birthday Feb 28
+
+Rafa
+ n: Birthday
+
+Chiqui
+ n: Birthday
+
+Sam
+ n: Birthday
+
+Lolo Magdaleno + Lola Demetria
+ c: Mommy Puring, Nanay Siring, Nanay Ising
+
+Mommy Puring + Nonon
+ c: Susan
+
+Nanay Siring + Tatay Junior
+ c: Boy, Josie, Bobby, Eric
+
+Nanay Ising + Tatay Rey
+ c: Evelyn, Ophie, Liza
+
+Susan + Arturo
+ c: Joyce, Rey, Rex, Joey, Jay
+
+Bobby + Angelie
+ c: Camille, Ralph, Chester
+
+Eric + Lilian
+ c: Liander, Dominick
+
+Evelyn + Perry
+ c: Kim, Rica, Tricia, Aico
+
+Ophie + Rex L.
+ c: Nikko, Christel, Carlo, Gelo
+
+Liza + Anthony
+ c: Isabel, Sofia, Monica
+
+Kim + Marvin
+ c: Mia
+
+Rica + PJ
+
+Tricia + Jubs
+ c: Luca
+
+Camille + Ju
+ c: ZL
+
+Nikko + Angel
+ c: Chiqui, Sam
+
+Joyce + ---
+ c: Jadie
+
+Rex + ----
+ c: Joaqui
+
+Ralph + -----
+ c: Rafa
